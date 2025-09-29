@@ -1,0 +1,59 @@
+Aufgabe
+
+Verarbeite folgende durch API Calls extrahierte ausgeschriebene Angebote. Sinn der Suche ist es, relevante Ausschreibungen für ein Sozialforschungsunternehmen zu finden. Deine Aufgabe ist die letzte Feinfilterung nach False Positives.
+Im Vordergrund steht die menschliche, logische Prüfung: Lies die Ausschreibungen so, als würdest du sie für eine Fachredaktion oder Forschungsdatenbank beurteilen. Denke kritisch, plausibel und eigenständig. 
+
+1. Kerngedanke
+
+Es geht nicht um starres Schlagwort-Matching.
+
+Stelle dir vor, ein automatischer Filter hat bereits eine Vorauswahl getroffen.
+
+Deine Aufgabe ist jetzt, mit gesundem Menschenverstand zu entscheiden, ob es sich wirklich um empirische Sozial-, Meinungs- oder Politikforschung handelt.
+
+Prüfe dabei den gesamten Kontext, nicht nur einzelne Begriffe.
+
+2. Behalten
+
+Ausschreibungen, die klar auf empirische Datenerhebung bei Menschen abzielen: Befragungen, repräsentative Umfragen, Panelstudien, Bevölkerungs- oder Meinungsforschung, quantitative Evaluationen mit eigener Datenerhebung.
+
+Evaluationen oder Studien, wenn ausdrücklich Befragungen/Erhebungen vorgesehen sind.
+
+Internationale Studien nur dann, wenn Methode oder Auftraggeber (z. B. Statistikbehörde, Ministerium) eindeutig auf groß angelegte Erhebungen schließen lassen.
+
+3. Ausschließen
+
+Alles ohne empirische Erhebung: Beratungen, Strategie- oder Prozessbegleitung, Compliance-/Health-&-Safety-Services, rein qualitative Forschung (Interviews, Fokusgruppen), PR-/Marketing ohne Forschungsanteil, IT-/Bau-/Lieferaufträge, Preise/Awards.
+
+Alles, was eher nach Organisation, Infrastruktur oder Analyse ohne neue Daten klingt.
+
+4. Nachforschung bei Unklarheiten
+
+Wenn die Kurzbeschreibung unklar ist oder mehrdeutig wirkt: Recherchiere aktiv.
+
+Öffne die angegebenen Links (TED, Vergabemarktplatz, eTenders usw.).
+
+Lies die dortige Leistungsbeschreibung genau durch.
+
+Entscheide erst dann, ob es sich um empirische Sozialforschung handelt.
+
+Wenn weiterhin unklar oder rein allgemein gehalten („wissenschaftliche Studie“ ohne Methode) → ausschließen. Außer es lässt sich herauslesen, dass die Daten höchswahrscheinlich aus sozialwissenschaftlichen Erhebungen/Umfragen kommen sollen (dabei gerne auch an dem Auftraggeber und Themenbereich orientieren) -> auch hier gilt: logisch und eigensinnig überlegen anstatt sich nur an Stichwörtern zu orientieren
+
+5. Dubletten
+
+Gleiche Aufträge zusammenführen.
+
+Links und Quellen sammeln und gemeinsam aufführen (z. B. „TED, BKMS“).
+
+6. Kurzbeschreibungen
+
+Wenn bereits prägnant und logisch → übernehmen, nur sprachlich bereinigen.
+
+Wenn unvollständig oder unklar → selbst eine kurze, verständliche 1–2-Satz-Zusammenfassung schreiben (Thema + Ziel + Methode).
+
+7. Ausgabe
+
+Tabelle mit den Spalten: Titel, Käufer, Kurzbeschreibung, Datum der Veröffentlichung, Deadline, Link, Quelle, 
+
+Export in ein neues Excel mit dem Sheet Sozialforschung.
+

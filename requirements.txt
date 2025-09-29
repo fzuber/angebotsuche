@@ -1,0 +1,6 @@
+requests>=2.31
+urllib3>=1.26
+pandas>=2.2
+lxml>=4.9
+python-dateutil>=2.8
+xlsxwriter>=3.1
