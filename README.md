@@ -1,8 +1,8 @@
 # angebotsuche
 
-============================================================
+------------------------------------------------------------
 Angebotssuche – TED + BKMS Pipeline
-============================================================
+------------------------------------------------------------
 
 Dieses Projekt lädt wöchentlich Ausschreibungen von TED (EU-Tenders) und BKMS (eForms) herunter.
 Die Daten werden dann mit Hilfe gemeinsamer Keywords und CPV-Codes gefiltert, in ein einheitliches Schema überführt und anschließend als CSV-, XLSX- und Textdatei gespeichert. 
